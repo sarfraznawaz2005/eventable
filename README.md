@@ -60,7 +60,7 @@ Event::listen('task.deleted', function ($task) {
 });
 ```
 
-**Note:** Make sure your put event listening logic BEFORE saving/updating/deleitng model logic.
+**Note:** Make sure your put event listening logic BEFORE saving/updating/deletng model logic.
 
 ## License ##
 
